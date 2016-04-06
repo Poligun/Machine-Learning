@@ -7,6 +7,9 @@ Implemented tools include:
   - Implemented **Gradient Check**
   - Implemented **Stochastic Gradient Descent**, currently only supports *BFGS* and *l-BFGS* algorithms
 
+### Indexer
+  - For large training dataset please use **Incremental Indexer**
+
 ### Classification and Regression
   - Implemented **Logistic Regression**. To run softmax (multinomial logistic regression), please enable L2 regularization.
   - TODO:
